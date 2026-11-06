@@ -1,0 +1,7 @@
+{
+  "name": "ComplainX",
+  "description": "A community problem reporting and resolution tracking portal for civic utilities and infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
